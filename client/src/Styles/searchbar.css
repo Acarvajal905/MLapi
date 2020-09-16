@@ -1,0 +1,26 @@
+.bg-light {
+    background-color: #f8f9fa!important;
+    float: right;
+    width: 50rem;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    width: 10rem;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    width: 37rem;
+}
+
+.background {
+    background-color: black;
+}
+
+.bg-light {
+   
+    background-color: black !important;
+}
